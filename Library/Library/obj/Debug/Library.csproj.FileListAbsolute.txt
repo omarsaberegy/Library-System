@@ -1,0 +1,25 @@
+C:\Users\amr\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\amr\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\amr\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.Form4.resources
+C:\Users\amr\Desktop\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\bin\Debug\Library.exe.config
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.exe
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.pdb
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.Form4.resources
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\bin\Debug\Library.exe
+C:\Users\amr\Desktop\My 12 weeks journey\Library\Library\bin\Debug\Library.pdb
+D:\Library\Library\bin\Debug\Library.exe.config
+D:\Library\Library\obj\Debug\Library.exe
+D:\Library\Library\obj\Debug\Library.pdb

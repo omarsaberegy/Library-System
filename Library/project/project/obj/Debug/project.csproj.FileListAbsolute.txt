@@ -1,0 +1,44 @@
+c:\users\amro\documents\visual studio 2015\Projects\project\project\bin\Debug\project.exe.config
+c:\users\amro\documents\visual studio 2015\Projects\project\project\bin\Debug\project.exe
+c:\users\amro\documents\visual studio 2015\Projects\project\project\bin\Debug\project.pdb
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.Form1.resources
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.Properties.Resources.resources
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.exe
+c:\users\amro\documents\visual studio 2015\Projects\project\project\obj\Debug\project.pdb
+F:\project\project\bin\Debug\project.exe.config
+F:\project\project\obj\Debug\project.exe
+F:\project\project\obj\Debug\project.pdb
+F:\project\project\bin\Debug\project.exe
+F:\project\project\bin\Debug\project.pdb
+F:\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+F:\project\project\obj\Debug\project.Form1.resources
+F:\project\project\obj\Debug\project.Properties.Resources.resources
+F:\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Amro\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\Amro\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Amro\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Amro\Desktop\project\project\obj\Debug\project.exe
+C:\Users\amr\Music\project\project\bin\Debug\project.exe.config
+C:\Users\amr\Music\project\project\obj\Debug\project.exe
+C:\Users\amr\Music\project\project\obj\Debug\project.pdb
+C:\Users\amr\Music\project\project\bin\Debug\project.exe
+C:\Users\amr\Music\project\project\bin\Debug\project.pdb
+C:\Users\amr\Music\project\project\obj\Debug\project.Form1.resources
+C:\Users\amr\Music\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\amr\Music\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\hp\Desktop\project\project\obj\Debug\project.exe
+C:\Users\hp\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\hp\Desktop\project\project\bin\Debug\project.exe
+C:\Users\hp\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\hp\Desktop\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\hp\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\hp\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.Cache

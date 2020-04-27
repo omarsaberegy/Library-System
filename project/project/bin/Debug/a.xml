@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <product>
+    <id>32</id>
+    <name>tata</name>
+  </product>
+  <product>
+    <id>2</id>
+    <name>amro</name>
+  </product>
+</table>

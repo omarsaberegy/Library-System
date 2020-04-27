@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="Products">
+  <Product>
+    <Id>1</Id>
+    <Name>pepsi</Name>
+    <Price>2</Price>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>chepsu</Name>
+    <Price>3</Price>
+  </Product>
+</Table>

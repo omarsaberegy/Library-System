@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <class>
+    <std_name>amr</std_name>
+    <std_id>1</std_id>
+    <mr7la>talta</mr7la>
+  </class>
+  <class>
+    <std_name>omar</std_name>
+    <std_id>2</std_id>
+    <mr7la>tanyaa</mr7la>
+  </class>
+  <class>
+    <std_name>ali</std_name>
+    <std_id>3</std_id>
+    <mr7la>talta</mr7la>
+  </class>
+  <class>
+    <std_name>ahmed</std_name>
+    <std_id>4</std_id>
+    <mr7la>talta</mr7la>
+  </class>
+</table>

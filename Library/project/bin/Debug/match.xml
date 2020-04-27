@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <match>
+    <std_name>amr</std_name>
+    <l3b>wa7d</l3b>
+  </match>
+  <match>
+    <std_name>omar</std_name>
+    <l3b>atnen</l3b>
+  </match>
+  <match>
+    <std_name>ali</std_name>
+    <l3b>tlata</l3b>
+  </match>
+  <match>
+    <std_name>ahmed</std_name>
+    <l3b>arb3a</l3b>
+  </match>
+</table>
